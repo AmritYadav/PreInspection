@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">PreInspection</string>
+
+    <string name="message_need_permission">Need Permissions</string>
+    <string name="message_permission">This app needs permission to use this feature. You can grant them in app settings.</string>
+    <string name="title_go_to_setting">GOTO SETTINGS</string>
+
+    <string name="action_retake">RETAKE</string>
+    <string name="action_save">SAVE</string>
+    <string name="action_take_snap">TAKE SNAP</string>
+
+    <string name="title_discard_recording">Delete Recording</string>
+    <string name="message_delete_recording">All the shots and the recorded video will not be saved.\n\nAre you sure, you want to continue.</string>
+    <string name="label_shots">&lt;b>Shots :&lt;/b> %d</string>
+</resources>
